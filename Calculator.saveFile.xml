@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+    <calculadora>
+        <entrada>12.0</entrada>
+        <operador>12.0</operador>
+        <oepradorB>true</oepradorB>
+    </calculadora>
+</configuration>
